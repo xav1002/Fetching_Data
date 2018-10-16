@@ -1,1 +1,1 @@
-# first-repos
+# first-repos; this is a test repository for the time being; it may later changed to a repository for another project
