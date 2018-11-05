@@ -1,0 +1,13 @@
+Create folder for project
+
+npm init --yes
+
+npm install mongoose --save
+
+Create connection.js
+
+node [foldername]\[connection.js]
+
+Create models folder
+
+Create example.js in models
