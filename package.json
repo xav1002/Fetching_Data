@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/xav1002/first-repos/issues"
   },
-  "homepage": "https://github.com/xav1002/first-repos#readme"
+  "homepage": "https://github.com/xav1002/first-repos#readme",
+  "dependencies": {
+    "mongoose": "^5.3.9"
+  },
+  "devDependencies": {}
 }
