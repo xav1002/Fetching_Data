@@ -1,0 +1,25 @@
+Run this code to start MongoDB:
+"C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe" --dbpath="c:\data\db"
+
+    Make connection.js file
+
+    Run npm init --yes
+
+    Install Mongoose with:
+npm install mongoose --save (saves to dependencies)
+
+    Change test attribute in package.json to "mocha"
+
+    Save to GitHub
+
+    Test connection with:
+node [foldername]\[connection.js]
+
+Make new records
+Update records
+Find records
+Delete records
+mocha tests
+know how to set up connection to mongodb
+update operators
+pull data and display
