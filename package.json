@@ -1,8 +1,13 @@
 {
-  "name": "Fetching_Data",
+  "name": "fetching-data",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "mongoose": "^5.3.9"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "mocha"
   },
@@ -16,9 +21,5 @@
   "bugs": {
     "url": "https://github.com/xav1002/first-repos/issues"
   },
-  "homepage": "https://github.com/xav1002/first-repos#readme",
-  "dependencies": {
-    "mongoose": "^5.3.9"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/xav1002/first-repos#readme"
 }
