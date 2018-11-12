@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/xav1002/first-repos#readme",
   "dependencies": {
+    "mocha": "^5.2.0",
     "mongoose": "^5.3.9"
   }
 }

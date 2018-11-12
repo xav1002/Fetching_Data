@@ -11,3 +11,6 @@ node [foldername]\[connection.js]
 Create models folder
 
 Create example.js in models
+
+npm install mocha --save
+
