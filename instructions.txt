@@ -14,3 +14,13 @@ Create example.js in models
 
 npm install mocha --save
 
+Create test.js
+
+    describe('[test description]', function() {
+
+        // it()'s describe single tests
+        it('[description]', function() {
+            // Assertion assumes statement to be true, and is successful if it is
+            assert([assertion]);
+        })
+    });
